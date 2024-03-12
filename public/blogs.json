@@ -1,50 +1,50 @@
 [
 {
-    "id": "12345",
-    "cover": "https://example.com/cover-image.jpg",
-    "title": "The Amazing JSON Journey",
+    "id": 1,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Top 10 Es6 Features you must know",
     "author": "John Doe",
-    "author_img": "https://example.com/author-image.jpg",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "10 minutes",
+    "reading_time": "10 ",
     "hashtags": [
-        "JSON",
-         "Data", 
-         "Tech"
+        "beginners",
+         "es6" 
+         
         ]
   },
 
   {
-    "id": "12346",
-    "cover": "https://example.com/cover-image.jpg",
-    "title": "The Amazing JSON Journey",
+    "id": 2,
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "title": "Javascript objects for absolute beggnners: A Fun introduction",
     "author": "John Doe",
-    "author_img": "https://example.com/author-image.jpg",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "10 minutes",
-    "hashtags": ["JSON", "Data", "Tech"]
+    "reading_time": "10 ",
+    "hashtags": ["Javascript", "coding", "dev"]
   },
 
   {
-    "id": "12347",
-    "cover": "https://example.com/cover-image.jpg",
-    "title": "The Amazing JSON Journey",
+    "id": 3,
+    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "title": "Component lifecycle in react- class component vs functional component",
     "author": "John Doe",
-    "author_img": "https://example.com/author-image.jpg",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "10 minutes",
-    "hashtags": ["JSON", "Data", "Tech"]
+    "reading_time": "10 ",
+    "hashtags": ["mid-level", "react"]
   },
 
   {
-    "id": "12348",
-    "cover": "https://example.com/cover-image.jpg",
-    "title": "The Amazing JSON Journey",
+    "id": 4,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "title": "Free images and resources collection for website",
     "author": "John Doe",
-    "author_img": "https://example.com/author-image.jpg",
+    "author_img": "https://i.ibb.co/Sn7zB4q/gir12.jpg",
     "posted_date": "2024-03-12",
-    "reading_time": "10 minutes",
-    "hashtags": ["JSON", "Data", "Tech"]
+    "reading_time": "10 ",
+    "hashtags": ["development", "resources"]
   }
 ]
         
